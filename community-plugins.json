@@ -37763,5 +37763,12 @@
     "author": "Labtopia",
     "description": "Configurable duration and dismiss controls for toast notifications, so they don't disappear before you finish reading them. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tikitock/toastmaster"
+  },
+  {
+    "id": "extensions-sync-manager",
+    "name": "Extensions Sync Manager",
+    "author": "Diego Marza",
+    "description": "Manage desktop and mobile extensions and configuration profiles. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "diegomarzaa/obsidian-extensions-sync-manager"
   }
 ]
